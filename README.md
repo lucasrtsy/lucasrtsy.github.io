@@ -6,11 +6,19 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Interest in IT
 
+text
+
 ## Ideal Job
+
+text
 
 ## Personal Profile
 
+text
+
 # Project Idea
+
+text
 
 
 ### Markdown
