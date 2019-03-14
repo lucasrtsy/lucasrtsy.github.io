@@ -6,9 +6,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Interest in IT
 
-### Ideal Job
+## Ideal Job
 
-#### Personal Profile
+## Personal Profile
+
+## Project Idea
+
 
 ### Markdown
 
