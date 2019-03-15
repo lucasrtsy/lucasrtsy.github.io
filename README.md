@@ -6,15 +6,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Interest in IT
 
-text
+ Firstly, I am into graphic design as a small hobby and seeing an easy to use . My interest peaked when I saw different websites
 
 ## Ideal Job
 
-text
+My ideal job to pursue is web design.
 
 ## Personal Profile
 
-text
+
 
 # Project Idea
 
