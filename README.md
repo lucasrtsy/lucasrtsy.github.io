@@ -52,6 +52,17 @@ Myers Briggs Test
 
 
 
+
+Learning Style Test
+![Learning Style test](https://user-images.githubusercontent.com/48433323/54479332-abe7e700-4856-11e9-9cba-79216bde4184.png)
+
+
+Creativity Test
+
+
+
+
+
 •	What do the results of these tests mean for you?
     ➢	I am a very open person, and half a mind of being conscientious. 
 •	How do you think these results may influence your behaviour in a team?
