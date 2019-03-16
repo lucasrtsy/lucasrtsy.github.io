@@ -155,6 +155,7 @@ TDMA – Time Division Multiple Access
 ⦁Multipath distortion which may affect connect has it will bounce off several different buildings before arriving hence there will be lag
 
 
+
 FDMA – Frequency division multiple access
 
 ⦁Division of the frequency band allocated for all cellular phones to connect to the different channels
@@ -174,30 +175,47 @@ FDMA – Frequency division multiple access
 ⦁Advantages
 
 ⦁If channel is not in use, it will be idle
+
 ⦁Channel bandwidth is relatively narrow (30kHz)
+
 ⦁Simple algorithm
+
 ⦁Efficient when small in connectivity and traffic is constant
+
 ⦁No restriction in regards of the type of baseband or type of modulation
 
 ⦁Disadvantages
+
 ⦁Presence of guard bands
+
 ⦁Maximum bit rate per channel is fixed
+
 ⦁Does not differ from analog system
+
+
 
 CDMA – Code-division multiple access
 
 ⦁No restriction on time and frequency
+
 ⦁Parallel communication without colliding with others and whole bandwidth could be use
+
 ⦁Users are separated by code not by time slot and frequency slot
 
 ⦁Advantages
 
 ⦁Potential larger capacity meaning more users can communicate at the same time
+
 ⦁Easy addition of more users
+
 ⦁High security as codes are hard to decipher
+
 ⦁Stronger signals
+
 ⦁Disadvantages
+
 ⦁More users means overall service will decrease
+
 ⦁Self jamming meaning that the signals may self jam and users will not be able to use the system
 
 With the 3 options of wireless communication, I believe that using CDMA would be the ideal solution for my app. Reason is that it is easy to accommodate more users as well as the larger capacity of communication. CDMA’s codes are hard to decipher and this is important, as we need to protect the user’s privacy. Unfortunately, the higher the number of users means the decrease of service and jamming of the system. But the last two disadvantages mentioned can be rectified easily.
