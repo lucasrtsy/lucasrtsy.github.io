@@ -92,8 +92,6 @@ Any work can be discussed together and allocated fairly
 
 # Project Idea 
 
-Every designer faces many issues when it comes to creativity. Their design could have been done before or a similar one has been made. This leads to copyright claims and unoriginality. The main purpose of what we are trying to achieve is to let the designers’ lives easier and not have to worry about their work being stolen. The proposed project idea brings fourth a way for designers to patent their artwork on a platform before anyone else. Similar designs uploaded to the platform would be flagged and notified to the original designer. On this very same platform, we provide the integration of all designing tools, making it easier for the designer to make and showcase their artwork patent on our platform. Thus, attracting potential clients to get in business with the designers
-
 
 Overview
 
