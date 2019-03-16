@@ -21,11 +21,7 @@ Photography is an important hobby to me, as I like to capture the perfect moment
 In the last decade, the world felt so far apart. For example, to get a special product only sold in another country, you had to travel there or pay a large fee for shipping. Moreover, before the use of the Internet, the awareness of such products was very little. Nowadays, the brilliance of the Internet has brought the world closer together and consumers have a wider variety of products and services to utilize. What used to be only designated stores now have online websites to shop from. The world has now become smaller due to this. It solved people’s problems such as communicating with the jurisdiction of their country. Fascination about the internet intrigued me since I realized that information technology is essential for the world to work more easily together.
 
 •	Was there a particular event or person that sparked your interest?
-  ➢	
-
-•	Outline your IT experience (if any).
-
-  ➢	
+  	⦁ Bill Gates and Steve Jobs revolutionized the world with Microsoft and Apple Smart phones.
 
 •	Why did you choose to come to RMIT?
   ➢	I went into Marketing at RMIT as it is one of the many forms of innovation to attract and spark awareness to a product that would benefit them. Information technology brings forward those ideas through research and understanding of the target market. We would be able to find the next innovative product or service that assists people to fix problems they encounter.
