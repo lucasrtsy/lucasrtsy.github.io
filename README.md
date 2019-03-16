@@ -81,15 +81,7 @@ o	https://www.seek.com.au/jobs-in-design-architecture?subclassification=6268%2C6
 
 # Project Idea 
 
-You are to write a report of around 1000 words describing your project idea. You should describe the project itself, as well as why you think it is important or interesting, and any potential drawbacks or obstacles you anticipate.
 
-•	What are you passionate about?
-  ➢	Finding out simpler and creative ways for people to handle and manage problems. Creating an idea that people never thought could be useful, would be interesting to them
-
-•	What kind of IT innovation would you like to see? 
-  ➢	A way for consumers to utilize a service without the cause of confusion. A simple yet intriguing way for individuals to adapt to a situation o
-
-•	What project will help you develop the skills, experience and knowledge required to make you qualified for your ideal job?
 
 Overview
 
