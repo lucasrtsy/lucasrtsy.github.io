@@ -40,8 +40,8 @@ In the last decade, the world felt so far apart. For example, to get a special p
 
 
 ## Ideal Job
+![ideal job](https://user-images.githubusercontent.com/48433323/54479607-5c56ea80-4859-11e9-98b3-85310c6ced47.png)
 
-Ideal Job
 
 
 
