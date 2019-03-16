@@ -54,7 +54,9 @@ My ideal job is to be a graphic designer. I can utilize my creative side to help
 
 
 ## Personal Profile
+
 Myers Briggs Test
+
 ![16 personality test](https://user-images.githubusercontent.com/48433323/54479260-ef8e2100-4855-11e9-9f2c-cec9951942f8.png)
 
 
