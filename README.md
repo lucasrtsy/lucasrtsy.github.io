@@ -213,3 +213,9 @@ The skills required will be the coding of the SQL database which will include th
 Outcome
 
 Depending on its success, there would be a massive reduction in copyright claims and an increase in innovation to designers. Designers would no longer have to worry too much about other individuals stealing their ideas and their value, as a designer would stay as a unique entity. The development of this website establishes a safe environment for designers to present their work proudly. It would also hopefully attract more awareness of their name in the design industry based on the word-of-mouth and the clients they attract. Another possible outcome is collaboration of different designers to create whole new product theme of artwork.
+
+## References
+
+https://www.creativebloq.com/graphic-design/14-biggest-challenges-design-today-31619475
+
+https://www.slideshare.net/SammarKhan2/fdmatdmacdma
