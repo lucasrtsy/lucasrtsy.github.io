@@ -13,22 +13,26 @@ Photography is an important hobby to me, as I like to capture the perfect moment
 
 ## Interest in IT
 
- The world is constantly evolving. And i think we should follow the process of constant change and strive to improve in peoples’ everyday lives. Innovation peaks interest to individuals everyday with new cutting edge technology and beneficial to their lifestyle. 
+The world is constantly evolving. And i think we should follow the process of constant change and strive to improve in peoples’ everyday lives. Innovation peaks interest to individuals everyday with new cutting edge technology and beneficial to their lifestyle. 
 
 
-•	When did your interest in IT start? 
+•When did your interest in IT start? 
 
 In the last decade, the world felt so far apart. For example, to get a special product only sold in another country, you had to travel there or pay a large fee for shipping. Moreover, before the use of the Internet, the awareness of such products was very little. Nowadays, the brilliance of the Internet has brought the world closer together and consumers have a wider variety of products and services to utilize. What used to be only designated stores now have online websites to shop from. The world has now become smaller due to this. It solved people’s problems such as communicating with the jurisdiction of their country. Fascination about the internet intrigued me since I realized that information technology is essential for the world to work more easily together.
 
-•	Was there a particular event or person that sparked your interest?
-  	⦁ Bill Gates and Steve Jobs revolutionized the world with Microsoft and Apple Smart phones.
+• Was there a particular event or person that sparked your interest?
 
-•	Why did you choose to come to RMIT?
-  ➢	I went into Marketing at RMIT as it is one of the many forms of innovation to attract and spark awareness to a product that would benefit them. Information technology brings forward those ideas through research and understanding of the target market. We would be able to find the next innovative product or service that assists people to fix problems they encounter.
+ Bill Gates and Steve Jobs revolutionized the world with Microsoft and Apple Smart phones.
+ 
+
+• Why did you choose to come to RMIT?
+
+I went into Marketing at RMIT as it is one of the many forms of innovation to attract and spark awareness to a product that would benefit them. Information technology brings forward those ideas through research and understanding of the target market. We would be able to find the next innovative product or service that assists people to fix problems they encounter.
 
 
-•	What do you expect to learn during your studies?
-  ➢	Innovation is a personal goal. How to appeal to others needs is essential for my learning experience. I hope to learn the importance of research and development as well as future planning. The end game is to bring the world something new to the table. I would like to figure out a way to improve on their lifestyle. Once the problem is accessed, detailed research needs to be done, discussion with other partners of the team and then to execute once the decision is ready. 
+• What do you expect to learn during your studies?
+
+Innovation is a personal goal. How to appeal to others needs is essential for my learning experience. I hope to learn the importance of research and development as well as future planning. The end game is to bring the world something new to the table. I would like to figure out a way to improve on their lifestyle. Once the problem is accessed, detailed research needs to be done, discussion with other partners of the team and then to execute once the decision is ready. 
 
 
 ## Ideal Job
@@ -94,7 +98,6 @@ Overview
 Every designer faces many issues when it comes to creativity. Their design could have been done before or a similar one has been made. This leads to copyright claims and unoriginality. The main purpose of what we are trying to achieve is to let the designers’ lives easier and not have to worry about their work being stolen. The proposed project idea brings fourth a way for designers to patent their artwork on a platform before anyone else. Similar designs uploaded to the platform would be flagged and notified to the original designer. On this very same platform, we provide the integration of all designing tools, making it easier for the designer to make and showcase their artwork patent on our platform. Thus, attracting potential clients to get in business with the designers.
 
 
-
 Motivation
 
 The motivation that drives me to make this website is that many graphic designers have struggled with their datelines and also copyright issues. Therefore I have decided to make this platform where designing tools will be integrated which will allow graphic designers to finish their job at a quicker pace. The copyright issue could be solve by the use of the patent function in this platform, where users with similar designs could have a formal discussion about their designs and hopefully they will be able to come in terms with each other. This will avoid many copyright issues for graphic designers.
@@ -114,9 +117,11 @@ Also, with the designing platform on the website, an app must be created for use
 	
 Hence to conclude, the main purpose of this platform is to ease the lives of graphic designers by providing an integration of all designing tools, allowing designers to finish their designs faster and also to showcase their designs. They will be able to patent their designs through this platform. This platform may attract potential clients and they will be able to contact the designers by viewing their profile.
 
+
 Tools and Technologies
 
 The tools and technology required for this program to work will be the following: image scanner, MIT App inventor, SQL database, a server tool for the website to run on and integration of all designing tools such as the functions of adobe illustrator and adobe Photoshop, more designing tools will be added to the website to aid our users. The image scanner will allow the website to scan for similar designs, and inform users if they have the same designs. The MIT App inventor will be use to create the add. The SQL data base will store information of all users and designs which will allow potential clients to look at the user's information including his/her designs. The database is a key part of this website as it stores all information of users and their designs. The designs will be patent upon submission on the website. The server tool will allow the website to stay online and keep it running.
+
 
 TDMA – Time Division Multiple Access 
 ⦁	A digital transmission that grants multiple users to attain the same frequency
@@ -172,10 +177,12 @@ CDMA – Code-division multiple access
 
 With the 3 options of wireless communication, I believe that using CDMA would be the ideal solution for my app. Reason is that it is easy to accommodate more users as well as the larger capacity of communication. CDMA’s codes are hard to decipher and this is important, as we need to protect the user’s privacy. Unfortunately, the higher the number of users means the decrease of service and jamming of the system. But the last two disadvantages mentioned can be rectified easily.
 
+
 Skills Required
 
 The skills required will be the coding of the SQL database which will include the information of the users and the designs the users have made. The database must also be integrated with the image scanner software so that the designs of different users do not clash with each other. There will be maintenance on the website and skills will be needed to handle this portion. The MIT app inventor will is an app that allows users to create their own apps with many guidelines. In this part, I believe that the skills that will be needed are people experiences from creating an app.  Lastly, the integration of all designing tools must be proper and precise, as the aim of this platform is for graphic designers hence in this part, the skills required will be the familiarization of all designing software and the tools that could aid graphic designers.
 
+
 Outcome
 
-Depending on its success, there would be a massive reduction in copyright claims and an increase in innovation to designers. Designers would no longer have to worry too much about other individuals stealing their ideas and their value, as a designer would stay as a unique entity. The development of this website establishes a safe environment for designers to present their work proudly. It would also hopefully attract more awareness of their name in the design industry based on the word-of-mouth and the clients they attract. Another possible outcome is collaboration of different designers to create whole new product theme of artwork. 
+Depending on its success, there would be a massive reduction in copyright claims and an increase in innovation to designers. Designers would no longer have to worry too much about other individuals stealing their ideas and their value, as a designer would stay as a unique entity. The development of this website establishes a safe environment for designers to present their work proudly. It would also hopefully attract more awareness of their name in the design industry based on the word-of-mouth and the clients they attract. Another possible outcome is collaboration of different designers to create whole new product theme of artwork.
