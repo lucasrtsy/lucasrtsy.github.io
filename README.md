@@ -124,6 +124,7 @@ Tools and Technologies
 
 The tools and technology required for this program to work will be the following: image scanner, MIT App inventor, SQL database, a server tool for the website to run on and integration of all designing tools such as the functions of adobe illustrator and adobe Photoshop, more designing tools will be added to the website to aid our users. The image scanner will allow the website to scan for similar designs, and inform users if they have the same designs. The MIT App inventor will be use to create the add. The SQL data base will store information of all users and designs which will allow potential clients to look at the user's information including his/her designs. The database is a key part of this website as it stores all information of users and their designs. The designs will be patent upon submission on the website. The server tool will allow the website to stay online and keep it running.
 
+Wireless communication scenario
 
 TDMA – Time Division Multiple Access 
 ⦁	A digital transmission that grants multiple users to attain the same frequency
