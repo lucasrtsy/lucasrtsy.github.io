@@ -67,11 +67,65 @@ o	https://www.seek.com.au/jobs-in-design-architecture?subclassification=6268%2C6
 
 ## Personal Profile
 
+•	What do the results of these tests mean for you?
+    ➢	I am a very open person, and half a mind of being conscientious. 
+•	How do you think these results may influence your behaviour in a team?
+    ➢	I may get a little agitated if someone is distracting me or not doing their work
+    ➢	I may tend to drift away abit for awhile if I am tired
+    ➢	Any work can be discussed together and allocated fairly
+•	How should you take this into account when forming a team?
+    ➢	Who dares to speak and argue with points and not just sit there and be told what to do
+    ➢	I will warn them about my disadvantages
 
 
-# Project Idea
 
-text
+# Project Idea 
+
+You are to write a report of around 1000 words describing your project idea. You should describe the project itself, as well as why you think it is important or interesting, and any potential drawbacks or obstacles you anticipate.
+
+•	What are you passionate about?
+  ➢	Finding out simpler and creative ways for people to handle and manage problems. Creating an idea that people never thought could be useful, would be interesting to them
+
+•	What kind of IT innovation would you like to see? 
+  ➢	A way for consumers to utilize a service without the cause of confusion. A simple yet intriguing way for individuals to adapt to a situation o
+
+•	What project will help you develop the skills, experience and knowledge required to make you qualified for your ideal job?
+
+Overview
+
+People get into long-distance relationships all around the world. But what if the fluent Chinese person is unable to communicate to the fluent English partner. A brand new relationship of communicating over different countries can be a hassle. Eventually, the partnership would not flourish but instead lose its edge. The proposed project would be to create a texting app that translates one person’s language into the others. This app does not have to just be for people looking for relationships, but it can also be used for business purposes. In a way, it breaks the language barrier. Hence, the world can be more connected.
+
+
+People are already friends around the world. What if we could make that easier? The project is based on creating an app that brings people together with similar interests or people that want to be in business together. People with similar traits can be brought together for business or partnerships. Different forums for different situations entices individuals to join and bond or talk about business. The groups give us a way of connecting more people together, solving the problem of having to look for individuals with the same interests.
+
+
+Motivation
+
+Forbes insights inform us that 67% of miscommunications lead to inefficiency. Moreover, with this app, people would be more willing to communicate to people around the world. Removal of the language barrier is interesting as then there would be fewer problems. A small miscommunication between overseas businesses or saying something wrong to the person they are talking to could ruin the relationship or given the wrong instruction
+
+
+Description
+
+The app will work like a normal texting app like Telegram or Whatsapp. However, the message the person types will be translated before it reaches the recipient. So for example, if the person types in English, there will be a translate button. Once it is translated to the preferred language, the user can then send the message and vice-versa. 
+
+With this app, it omits the need to use Google translate or any other translator. The app will do it for you. The app can also translate to three or more different languages at a time in case there is groups chat with three or more languages involved. Since some country’s languages has different dialects, traditional and modern languages we will provide an option for those as well. Settings will be available for themes such as colour and font style for the writing. 
+
+The app also can connect to your mac or PC. The account will be totally secure. There will be a terms and conditions agreement before the app can be used. Emojis are universal; hence those would be in the app as well. Notifications will be set. For businesses involved, there will also be a function where if you send a document, the app will scan it and translate it to its best capabilities. A forum page will also be set up to discuss any questions from around the world. This would be the open concept, a tab in the app where there will be topics as headers. Once again, the translate button would be there and everyone can read it. This enables open discussions for people around the world.
+
+
+Tools and Technologies
+
+Firstly, we need a translator to build and make sure the translations are right. Next is to build the app. Creating the design and layout for it. We need a budget to pay for the initial building of the app. We need investors that believe the app will be useful and functional. 
+
+Skills Required
+
+An IT expert is needed to set up the initial website and build the software. We would need to do trials on the translations, as some language change may not be as accurate. We could incorporate certain phrases that directly translate to a phrase of a different language.
+
+Outcome 
+
+If everything goes to plan, the world would be able to be confident enough to speak to one another through our app. The impact will help us bridge the global gap, as if everyone is speaking one language. More business deals can be done and collaboration could lead to more innovative ideas and possibly the creation of more companies with other ideas to be inspired. More relationships can be bloom and the networking of the world would be a way much easier place. 
+
+
 
 
 ### Markdown
