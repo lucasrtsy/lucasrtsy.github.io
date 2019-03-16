@@ -2,7 +2,16 @@
 
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Personal information
+
+•	Name: Lucas Randall Teo
+•	Student number: s3536584
+•	Emails: s3536584@student.rmit.edu.au - lucasrtsy@gmail.com
+
+I am Singaporean, currently 23 years of age. I am in the midst of my bachelor’s degree. I am fluent in English. I lived in Singapore until I was 17 then went abroad to further my studies in an Australian boarding school. Since then, I found myself to be a creative thinker. 
+
+Photography is an important hobby to me, as I like to capture the perfect moment. To the places I have travelled around the world, I keep these pictures with me to remind me of where I have been and it is to remind me of what I experienced in those places. Other than capturing moments, I spend time creating logos. Design is my go to pastime. I would just start up the illustrator app and just make up anything. Lastly, what I love is soccer. We try to find enough players for a game each week. 
+
 
 ## Interest in IT
 
