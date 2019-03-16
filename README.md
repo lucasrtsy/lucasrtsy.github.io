@@ -93,37 +93,31 @@ You are to write a report of around 1000 words describing your project idea. You
 
 Overview
 
-People get into long-distance relationships all around the world. But what if the fluent Chinese person is unable to communicate to the fluent English partner. A brand new relationship of communicating over different countries can be a hassle. Eventually, the partnership would not flourish but instead lose its edge. The proposed project would be to create a texting app that translates one person’s language into the others. This app does not have to just be for people looking for relationships, but it can also be used for business purposes. In a way, it breaks the language barrier. Hence, the world can be more connected.
-
-
-People are already friends around the world. What if we could make that easier? The project is based on creating an app that brings people together with similar interests or people that want to be in business together. People with similar traits can be brought together for business or partnerships. Different forums for different situations entices individuals to join and bond or talk about business. The groups give us a way of connecting more people together, solving the problem of having to look for individuals with the same interests.
 
 
 Motivation
 
-Forbes insights inform us that 67% of miscommunications lead to inefficiency. Moreover, with this app, people would be more willing to communicate to people around the world. Removal of the language barrier is interesting as then there would be fewer problems. A small miscommunication between overseas businesses or saying something wrong to the person they are talking to could ruin the relationship or given the wrong instruction
+The motivation that drives me to make this website is that many graphic designers have struggled with their datelines and also copyright issues. Therefore I have decided to make this platform where designing tools will be integrated which will allow graphic designers finish their job at a quicker pace. The copyright issue could be solve by the use of the patent function in this platform, where users with similar designs could have a formal discussion about their designs and hopefully they will be able to come in terms with each other. This will avoid many copyright issues for graphic designers.
 
 
 Description
 
-The app will work like a normal texting app like Telegram or Whatsapp. However, the message the person types will be translated before it reaches the recipient. So for example, if the person types in English, there will be a translate button. Once it is translated to the preferred language, the user can then send the message and vice-versa. 
 
-With this app, it omits the need to use Google translate or any other translator. The app will do it for you. The app can also translate to three or more different languages at a time in case there is groups chat with three or more languages involved. Since some country’s languages has different dialects, traditional and modern languages we will provide an option for those as well. Settings will be available for themes such as colour and font style for the writing. 
-
-The app also can connect to your mac or PC. The account will be totally secure. There will be a terms and conditions agreement before the app can be used. Emojis are universal; hence those would be in the app as well. Notifications will be set. For businesses involved, there will also be a function where if you send a document, the app will scan it and translate it to its best capabilities. A forum page will also be set up to discuss any questions from around the world. This would be the open concept, a tab in the app where there will be topics as headers. Once again, the translate button would be there and everyone can read it. This enables open discussions for people around the world.
 
 
 Tools and Technologies
 
-Firstly, we need a translator to build and make sure the translations are right. Next is to build the app. Creating the design and layout for it. We need a budget to pay for the initial building of the app. We need investors that believe the app will be useful and functional. 
+The tools and technology required for this program to work will be the following: image scanner, SQL database, a server for the website the run on and integration of all designing tools such as the functions of adobe illustrator and adobe Photoshop, more designing tools will be added to the website to ease the lives of graphics designers. The image scanner will allow the website to scan for similar designs, and inform users if they have the same designs. The SQL data base will store information of all users and designs which will allow potential clients to look at the user's information including his/her designs. The database is a key part of this website as it stores all information of users and their designs. The designs will be patent upon submission on the website. The server tool will allow the website to stay online and keep it running.   
 
 Skills Required
 
-An IT expert is needed to set up the initial website and build the software. We would need to do trials on the translations, as some language change may not be as accurate. We could incorporate certain phrases that directly translate to a phrase of a different language.
+The skills required will be the coding of the SQL database which will include the information of the user and the designs the users have made. The database must also be integrated with the image scanner software so that the designs of different users do not clash with each other. There will be maintenance on the website and skills will be needed to handle this portion. Lastly, the integration of all designing tools must be proper and precise, as the aim of this platform is for graphic designers hence in this part, the skills required will be the familiarization of all designing software and the tools that could aid graphic designers.
+
+
 
 Outcome 
 
-If everything goes to plan, the world would be able to be confident enough to speak to one another through our app. The impact will help us bridge the global gap, as if everyone is speaking one language. More business deals can be done and collaboration could lead to more innovative ideas and possibly the creation of more companies with other ideas to be inspired. More relationships can be bloom and the networking of the world would be a way much easier place. 
+
 
 
 
