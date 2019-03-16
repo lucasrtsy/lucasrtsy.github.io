@@ -33,7 +33,28 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Ideal Job
 
-My ideal job to pursue is web design.
+Ideal Job
+
+Find an advertisement showing what you believe to be your ideal job. This may require several years of experience, and hence be something that you must work towards, rather than something that you are ready for now, or will be able to fill as soon as you graduate.
+
+There are various ways to search for IT jobs, including websites like {seek.com.au}. You should include the following information.
+
+
+•	The job advertisement itself. Include a link, and a snapshot of it (in case the link expires before the assignment deadline).
+o	https://www.seek.com.au/jobs-in-design-architecture?subclassification=6268%2C6266
+
+
+•	A description (in your own words) of the position, and particularly what makes this position appealing to you.
+
+
+•	A description (in your own words) of the skills, qualifications and experience required for the position.
+
+•	A description (in your own words) of the skills, qualifications and experience you currently have.
+
+
+•	A plan describing how you will obtain the skills, qualifications and experience required for the position, building on those you have now. This need not be greatly detailed, (and will probably change significantly over time anyway), but try to be as specific as you can.
+
+
 
 ## Personal Profile
 
