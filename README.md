@@ -126,57 +126,81 @@ The tools and technology required for this program to work will be the following
 
 Wireless communication scenario
 
-TDMA – Time Division Multiple Access 
-⦁	A digital transmission that grants multiple users to attain the same frequency
-⦁	Divides each cellular channel into three time slots in order to increase data that can be carried
-⦁	Enables some vital features for system operation in an advanced cellular or PCS environment
-⦁	Relies upon the fact that the audio signal has been digitized into a number of milliseconds-long packets
-⦁	Allocates a singular frequency channel for a short time and then moves to another channel
-⦁	Advantages
-⦁	Carry data rates of 64kbps to 120 Mbps
-⦁	Provide user with extended battery life
-⦁	Most affordable technology to convert an analogue system to digital
-⦁	Separates users according to time to ensure zero interference
-⦁	Allows fax, voice band data, and SMS 
-⦁	Disadvantages
-⦁	User have limited time slot. If all channels are full, user might be disconnected
-⦁	Multipath distortion which may affect connect has it will bounce off several different buildings before arriving hence there will be lag
+TDMA – Time Division Multiple Access
+
+⦁A digital transmission that grants multiple users to attain the same frequency
+
+⦁Divides each cellular channel into three time slots in order to increase data that can be carried
+
+⦁Enables some vital features for system operation in an advanced cellular or PCS environment
+
+⦁Relies upon the fact that the audio signal has been digitized into a number of milliseconds-long packets
+
+⦁Allocates a singular frequency channel for a short time and then moves to another channel
+
+⦁Advantages
+
+⦁Carry data rates of 64kbps to 120 Mbps
+
+⦁Provide user with extended battery life
+
+⦁Most affordable technology to convert an analogue system to digital
+
+⦁Separates users according to time to ensure zero interference
+
+⦁Allows fax, voice band data, and SMS
+
+⦁Disadvantages
+
+⦁User have limited time slot. If all channels are full, user might be disconnected
+
+⦁Multipath distortion which may affect connect has it will bounce off several different buildings before arriving hence there will be lag
+
 
 FDMA – Frequency division multiple access
-⦁	Division of the frequency band allocated for all cellular phones to connect to the different channels
-⦁	Each channel comprises of one user at a time
-⦁	Analogue Advanced Mobile Phone System (AMPS)
-⦁	Digital Advanced Mobile Phone Service (D-AMPS) but adds time division (TDMA)
-⦁	Allows more than one person to use the same radio frequency through giving active users a different frequency channel
-⦁	FDMA assigns each call on a different frequency
-⦁	There is a space in between the different used frequencies known as the guard band which is essential as to avoid frequency shifts (Doppler effect)
 
-⦁	Advantages
-⦁	If channel is not in use, it will be idle
-⦁	Channel bandwidth is relatively narrow (30kHz)
-⦁	Simple algorithm
-⦁	Efficient when small in connectivity and traffic is constant
-⦁	No restriction in regards of the type of baseband or type of modulation
+⦁Division of the frequency band allocated for all cellular phones to connect to the different channels
 
-⦁	Disadvantages
-⦁	Presence of guard bands
-⦁	Maximum bit rate per channel is fixed
-⦁	Does not differ from analog system
+⦁Each channel comprises of one user at a time
+
+⦁Analogue Advanced Mobile Phone System (AMPS)
+
+⦁Digital Advanced Mobile Phone Service (D-AMPS) but adds time division (TDMA)
+
+⦁Allows more than one person to use the same radio frequency through giving active users a different frequency channel
+
+⦁FDMA assigns each call on a different frequency
+
+⦁There is a space in between the different used frequencies known as the guard band which is essential as to avoid frequency shifts (Doppler effect)
+
+⦁Advantages
+
+⦁If channel is not in use, it will be idle
+⦁Channel bandwidth is relatively narrow (30kHz)
+⦁Simple algorithm
+⦁Efficient when small in connectivity and traffic is constant
+⦁No restriction in regards of the type of baseband or type of modulation
+
+⦁Disadvantages
+⦁Presence of guard bands
+⦁Maximum bit rate per channel is fixed
+⦁Does not differ from analog system
 
 CDMA – Code-division multiple access
 
-⦁	No restriction on time and frequency
-⦁	Parallel communication without colliding with others and whole bandwidth could be use
-⦁	Users are separated by code not by time slot and frequency slot
+⦁No restriction on time and frequency
+⦁Parallel communication without colliding with others and whole bandwidth could be use
+⦁Users are separated by code not by time slot and frequency slot
 
-⦁	Advantages
-⦁	Potential larger capacity meaning more users can communicate at the same time
-⦁	Easy addition of more users
-⦁	High security as codes are hard to decipher
-⦁	Stronger signals
-⦁	Disadvantages
-⦁	More users means overall service will decrease
-⦁	Self jamming meaning that the signals may self jam and users will not be able to use the system
+⦁Advantages
+
+⦁Potential larger capacity meaning more users can communicate at the same time
+⦁Easy addition of more users
+⦁High security as codes are hard to decipher
+⦁Stronger signals
+⦁Disadvantages
+⦁More users means overall service will decrease
+⦁Self jamming meaning that the signals may self jam and users will not be able to use the system
 
 With the 3 options of wireless communication, I believe that using CDMA would be the ideal solution for my app. Reason is that it is easy to accommodate more users as well as the larger capacity of communication. CDMA’s codes are hard to decipher and this is important, as we need to protect the user’s privacy. Unfortunately, the higher the number of users means the decrease of service and jamming of the system. But the last two disadvantages mentioned can be rectified easily.
 
