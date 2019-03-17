@@ -232,6 +232,14 @@ Depending on its success, there would be a massive reduction in copyright claims
 
 ## References
 
-https://www.creativebloq.com/graphic-design/14-biggest-challenges-design-today-31619475
 
-https://www.slideshare.net/SammarKhan2/fdmatdmacdma
+Author	Julia Sagar
+Article title:	14 biggest challenges in design
+Website title:	Creative Bloq
+URL:	https://www.creativebloq.com/graphic-design/14-biggest-challenges-design-today-31619475
+
+
+Author	Khan
+Article title:	FDMA-TDMA-CDMA
+Website title:	Slideshare.net
+URL:	https://www.slideshare.net/SammarKhan2/fdmatdmacdma
