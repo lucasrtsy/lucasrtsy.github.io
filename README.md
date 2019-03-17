@@ -61,7 +61,6 @@ Myers Briggs Test
 
 
 
-
 Learning Style Test
 ![Learning Style test](https://user-images.githubusercontent.com/48433323/54479332-abe7e700-4856-11e9-9cba-79216bde4184.png)
 
@@ -76,7 +75,7 @@ Creativity Test
 
 •	What do the results of these tests mean for you?
 
-I am a very open person, and half a mind of being conscientious. 
+I am a very open person, and half a mind of being conscientious. I am more of a visual learner, which means I prefer to gain experience through sight.
 
 •	How do you think these results may influence your behaviour in a team?
 
@@ -85,8 +84,13 @@ I may tend to drift away abit for awhile if I am tired
 Any work can be discussed together and allocated fairly
 
 •	How should you take this into account when forming a team?
+
  Who dares to speak and argue with points and not just sit there and be told what to do
- I will warn them about my disadvantages
+ I will warn them about my disadvantages.
+ 
+ Each member should be valued at something they do best so we can work collectively.
+ 
+ Plan each meeting time correctly and stick to it unless there is an emergency.
 
 
 
